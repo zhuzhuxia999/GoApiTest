@@ -9,7 +9,7 @@ type Books struct {
 	book_id int
 }
 
-func main()  {
+func structTest1()  {
 	/*//创建一个新的结构体
 	fmt.Println(Books{"go 语言" , "王一杰","计算机" , 123})
 

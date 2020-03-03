@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main()  {
+func arrayTest1()  {
 	var n [10] int//声明一个长度为10 的数组
 	var i , j int
 

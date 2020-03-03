@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main()  {
+func funcTest1()  {
 	var result = max(2, 3)
 	fmt.Println("max : ",result)
 	a,b := swap("王一杰","王一杰的小可爱")

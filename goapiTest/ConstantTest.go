@@ -70,7 +70,7 @@ const (
 	l
 )
 
-func main()  {
+func consantTest1()  {
 	fmt.Println("I=", i )
 	fmt.Println("j=", j )
 	fmt.Println("k=", k )

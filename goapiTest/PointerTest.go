@@ -21,7 +21,7 @@ import "fmt"
 }*/
 
 //空指针 nil
-func main()  {
+func pointerTest1()  {
 	var ptr  *int
 
 	fmt.Println("ptr 的值为： %x\n",ptr)

@@ -16,7 +16,7 @@ func main()  {
 
 var g  int
 
-func main()  {
+func variableScopeTest1()  {
 	//声明局部变量
 	var a , b int
 
