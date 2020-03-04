@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-/*//局部变脸示例
+/*//局部变量示例
 func main()  {
 	//声明局部变量
 	var a , b ,c int
